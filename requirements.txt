@@ -1,0 +1,12 @@
+cdsapi
+xarray
+cfgrib
+cartopy
+scikit-learn
+yellowbrick
+numpy
+scipy
+matplotlib
+pandas
+jupyter
+jupyterlab

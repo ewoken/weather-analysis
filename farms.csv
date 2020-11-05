@@ -1,0 +1,13 @@
+name,latitude,longitude,turbine_count,turbine_power,turbine_swept_area,turbine_cut_in,turbine_cut_off,country
+Belwind II,51.659972,2.819972,50,3.3,9852,4,25,BE
+Westermost Rough,53.804972,0.148972,35,6,18627,4,25,UK
+Dan Tysk,55.14,7.2,80,3.6,11310,3.5,25,GE
+Golfe du Lion,42.81,3.27,5,6,17861,3,25,FR
+Noirmoutier,46.869972,-2.509972,62,8,21904,3,25,FR
+Côtes de Champagne,48.836111,4.660583,12,0.850,2643,3,25,FR
+Arklow Bank,52.789,-5.948972,7,3.6,9677,2.5,25,IR
+Kriegers Flak,55.03,12.939972,72,8,21904,3,25,DK
+Norway X,58.242075,6.088191,1,12,38000,3,25,NO
+West Ireland X,53.476451,-10.238366,1,12,38000,3,25,IR
+Portugal X,38.776811,-9.649704,1,12,38000,3,25,PT
+Gibraltar X,36.565731,-3.942815,1,12,38000,3,25,ES
